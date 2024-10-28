@@ -1,0 +1,6 @@
+@QSParsingConsoleApp_HostAddress = http://localhost:5212
+
+GET {{QSParsingConsoleApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
